@@ -1,4 +1,4 @@
-<h1 align="center">Hello world 👋, i'm FIRAT ŞAKAR</h1>
+<h1 align="center">Hello world 👋, I'm FIRAT ŞAKAR</h1>
 
 ## Who am I?
 
