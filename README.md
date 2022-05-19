@@ -8,7 +8,9 @@
 - 🔥 My goal is to make difference in my field.
 
 <div align=""center">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FrtSkr&layout=compact" alt="github-stats" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrtSkr&layout=compact" alt="github-stats" />
+</a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
