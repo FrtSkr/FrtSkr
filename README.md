@@ -5,7 +5,6 @@
 - 📚 I'm a fourth year student at Karadeniz Technical University. My department is software engineering. 
 - 🎓 I will graduate at 2023.
 - 👨🏽‍💻 I interested in Mobile programming and Artificial Intelligence.
-- 🔥 My goal is to make difference in my field.
 
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FrtSkr&layout=compact" alt="github-stats" target="_blank">
