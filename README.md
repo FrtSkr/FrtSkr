@@ -3,7 +3,7 @@
 ## Who am I?
 
 - 📚 Karadeniz Technical University
-- 👨‍🎓 Software Engineering
+- 👨‍🎓 Software Engineer
 - 🎓 I will graduate at 2023
 - 👨🏽‍💻 I interested in Mobile programming and Artificial Intelligence
 
