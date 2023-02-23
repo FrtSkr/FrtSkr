@@ -5,7 +5,7 @@
 - 📚 Karadeniz Technical University
 - 👨‍🎓 Software Engineer
 - 🎓 I will graduate at 2023
-- 👨🏽‍💻 I interested in Mobile programming and Artificial Intelligence
+- 👨🏽‍💻 I am interested every aspect of software and i want to get deep on backend or mobile development
 
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FrtSkr&layout=compact" alt="github-stats" target="_blank">
