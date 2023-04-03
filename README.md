@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm FIRAT</h1>
+<h1 align="center">Hello World 👋 I'm FIRAT</h1>
 
 ## Who am I?
 
