@@ -4,7 +4,6 @@
 
 - 📚 Karadeniz Technical University
 - 👨‍🎓 Software Engineer
-- 🎓 I will graduate in January 2024
 
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FrtSkr&layout=compact" alt="github-stats" target="_blank">
